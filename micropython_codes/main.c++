@@ -1,12 +1,12 @@
 #include <Arduino.h>
 
 void setup() {
-  pinMode(2, OUTPUT); // Initialize the LED_BUILTIN pin as an output
+  pinMode(2, OUTPUT); // Toma el pin2 del esp32 como salida, ya que ahí hay un led.
 }
 
 void loop() {
-  digitalWrite(2, HIGH);   // Turn the LED on
-  delay(1000);              // Wait for a second
-  digitalWrite(2, LOW);    // Turn the LED off
-  delay(1000);              // Wait for a second
+  digitalWrite(2, HIGH);   // Enciende
+  delay(1000);              // Espera
+  digitalWrite(2, LOW);    // Apaga
+  delay(1000);              // Espera
 }
