@@ -23,4 +23,4 @@ Before diving into the projects, you'll need to set up your environment for ESP3
 4. **Clone This Repository**: Get a copy of this repository to access the project codes and resources.
 
 ```bash
-git clone https://github.com/yourusername/esp32-micropython-learning.git
+git clone [https://github.com/yourusername/esp32-micropython-learning.git](https://github.com/miguelfeles/esp32_programming.git)
