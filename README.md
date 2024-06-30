@@ -8,6 +8,7 @@ MicroPython is a lean and efficient implementation of the Python 3 programming l
 
 ## Objectives
 
+
 - **Learn MicroPython**: Understand the syntax and capabilities of MicroPython in the context of microcontroller programming.
 - **Explore ESP32 Features**: Delve into the wide range of features offered by the ESP32, including Wi-Fi, Bluetooth, and various sensor interfaces.
 - **Build Projects**: Apply what I learn through practical projects, ranging from simple blinking LEDs to more complex IoT applications.
