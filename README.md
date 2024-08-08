@@ -1,3 +1,4 @@
+
 # ESP32 MicroPython Learning Journey
 
 Welcome to my repository where I dive into the world of programming the ESP32 using MicroPython. This repository serves as a learning hub and a showcase for various projects and exercises I undertake as part of my learning journey. The ESP32 is a versatile and powerful microcontroller that offers a wide range of possibilities for IoT projects, robotics, and much more, and MicroPython is an efficient and developer-friendly language to bring these projects to life.
