@@ -25,6 +25,7 @@ Before diving into the projects, you'll need to set up your environment for ESP3
 4. **Clone This Repository**: Get a copy of this repository to access the project codes and resources.
 
 Primera anotación del repositorio
+nd
 
 ```bash
 git clone https://github.com/miguelfeles/esp32_programming.git
