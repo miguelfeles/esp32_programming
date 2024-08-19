@@ -24,8 +24,6 @@ Before diving into the projects, you'll need to set up your environment for ESP3
 3. **Choose an IDE**: Set up your development environment. You can use Thonny, uPyCraft, or any other IDE that supports MicroPython.
 4. **Clone This Repository**: Get a copy of this repository to access the project codes and resources.
 
-Primera anotación del repositorio
-nd
-
+Primera anotación del repositorio, sobre qué va a ir en el apartadode contenido.
 ```bash
 git clone https://github.com/miguelfeles/esp32_programming.git
