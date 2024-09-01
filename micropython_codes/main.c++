@@ -1,5 +1,6 @@
 #include <Arduino.h>
 // programa básico esp 32
+// funciona para arduino uno y esp 32
 void setup() {
   pinMode(2, OUTPUT); // Toma el pin2 del esp32 como salida, ya que ahí hay un led.
 }
