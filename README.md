@@ -12,7 +12,8 @@ MicroPython is a lean and efficient implementation of the Python 3 programming l
 - **Explore ESP32 Features**: Delve into the wide range of features offered by the ESP32, including Wi-Fi, Bluetooth, and various sensor interfaces.
 - **Build Projects**: Apply what I learn through practical projects, ranging from simple blinking LEDs to more complex IoT applications.
 - **Share Knowledge**: Document my learning process and project codes to help others on their learning path.
-
+- dfa
+- 
 ## Setup
 
 Before diving into the projects, you'll need to set up your environment for ESP32 development with MicroPython. Here are the steps:
