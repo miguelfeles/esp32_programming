@@ -19,6 +19,8 @@ MicroPython is a lean and efficient implementation of the Python 3 programming l
 Before diving into the projects, you'll need to set up your environment for ESP32 development with MicroPython. Here are the steps:
 
 1. **Get an ESP32 Board**: Purchase an ESP32 development board from your preferred electronics supplier.
+
+
 2. **Install Firmware**: Follow the official MicroPython guide to install the latest MicroPython firmware on your ESP32.
 3. **Choose an IDE**: Set up your development environment. You can use Thonny, uPyCraft, or any other IDE that supports MicroPython.
 4. **Clone This Repository**: Get a copy of this repository to access the project codes and resources.
