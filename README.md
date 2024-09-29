@@ -6,7 +6,6 @@ Welcome to my repository where I dive into the world of programming the ESP32 us
 ## Introduction
 
 MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimized to run on microcontrollers like the ESP32. This combination allows for rapid development and prototyping of projects. It is used
-
 ## main Objectives:
 - **Learn MicroPython**: Understand the syntax and capabilities of MicroPython in the context of microcontroller programming.
 - **Explore ESP32 Features**: Delve into the wide range of features offered by the ESP32, including Wi-Fi, Bluetooth, and various sensor interfaces.
@@ -19,8 +18,6 @@ MicroPython is a lean and efficient implementation of the Python 3 programming l
 Before diving into the projects, you'll need to set up your environment for ESP32 development with MicroPython. Here are the steps:
 
 1. **Get an ESP32 Board**: Purchase an ESP32 development board from your preferred electronics supplier.
-
-
 2. **Install Firmware**: Follow the official MicroPython guide to install the latest MicroPython firmware on your ESP32.
 3. **Choose an IDE**: Set up your development environment. You can use Thonny, uPyCraft, or any other IDE that supports MicroPython.
 4. **Clone This Repository**: Get a copy of this repository to access the project codes and resources.
